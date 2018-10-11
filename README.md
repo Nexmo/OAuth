@@ -14,4 +14,4 @@ extention for PHP.
 ## Documentation
 Full [documentation can be found here][1].
 
-[1]: http://www.nexmo.com/documentation/oauth/
+[1]: https://developer.nexmo.com/concepts/guides/oauth
